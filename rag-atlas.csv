@@ -1,0 +1,5 @@
+Query,Problem,Solution
+"Do I need to pay to create my emoji?","Query-text explicit mismatch","Potential queries indexing"
+"What is the difference between Llama3–7b and Phi-3-mini?","Compound query requires query expansion","Query expansion"
+"Why did the author write this?","Indirect query requires query rewriting","Query rewriting"
+"What did Kwang Yang contribute to Atlas?","Underspecified query","Contextualized query rewriting"
